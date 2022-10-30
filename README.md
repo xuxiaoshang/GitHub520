@@ -24,27 +24,27 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-54.174.76.29                  github.githubassets.com
+52.10.78.84                   github.githubassets.com
 140.82.114.4                  central.github.com
-3.86.6.66                     desktop.githubusercontent.com
+35.161.145.220                desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
-54.83.35.123                  camo.githubusercontent.com
+52.10.78.84                   camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
 185.199.108.153               github.io
 140.82.114.4                  github.com
 140.82.114.4                  api.github.com
-34.204.176.185                raw.githubusercontent.com
-18.209.107.72                 user-images.githubusercontent.com
-44.204.200.4                  favicons.githubusercontent.com
-54.172.40.9                   avatars5.githubusercontent.com
-3.210.198.79                  avatars4.githubusercontent.com
-54.172.40.9                   avatars3.githubusercontent.com
-3.231.94.36                   avatars2.githubusercontent.com
-44.201.200.89                 avatars1.githubusercontent.com
-54.167.193.30                 avatars0.githubusercontent.com
-52.87.241.33                  avatars.githubusercontent.com
+54.214.122.215                raw.githubusercontent.com
+54.244.16.80                  user-images.githubusercontent.com
+34.209.87.26                  favicons.githubusercontent.com
+35.91.0.24                    avatars5.githubusercontent.com
+35.88.107.200                 avatars4.githubusercontent.com
+34.217.212.100                avatars3.githubusercontent.com
+35.86.106.143                 avatars2.githubusercontent.com
+34.220.45.149                 avatars1.githubusercontent.com
+35.161.145.220                avatars0.githubusercontent.com
+54.149.172.172                avatars.githubusercontent.com
 140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -53,16 +53,16 @@
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.18                 github.community
-3.231.94.36                   media.githubusercontent.com
+35.89.146.70                  media.githubusercontent.com
 
 
-# Update time: 2022-10-30T10:40:50+08:00
+# Update time: 2022-10-30T12:52:36+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-30T10:40:50+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-30T12:52:36+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
