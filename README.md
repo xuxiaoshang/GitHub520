@@ -24,17 +24,22 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-151.101.1.6                   github.map.fastly.net
-54.175.11.14                  user-images.githubusercontent.com
+18.207.136.95                 github.githubassets.com
+140.82.114.3                  assets-cdn.github.com
+151.101.1.6                   github.global.ssl.fastly.net
+140.82.114.3                  github.com
+3.238.131.1                   avatars0.githubusercontent.com
+140.82.114.3                  codeload.github.com
+18.208.202.99                 media.githubusercontent.com
 
 
-# Update time: 2022-11-10T22:38:21+08:00
+# Update time: 2022-11-11T02:31:51+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-10T22:38:21+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-11T02:31:51+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
